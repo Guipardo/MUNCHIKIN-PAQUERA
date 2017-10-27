@@ -1,0 +1,46 @@
+/
+nome;Casual
+bônus;1
+preço;200
+penteado;Topete
+superior;Camisa Simples
+inferior;Shorts
+calçado;Chinelo
+acessório;Colar
+/
+nome;Urbano
+bônus;2
+preço;400
+penteado;Moicano
+superior;Camisa de Banda
+inferior;Jeans
+calçado;Sapatenis
+acessório;Skate
+/
+nome;Inverno
+bônus;3
+preço;600
+penteado;Touca
+superior;Blusa
+inferior;Moletom
+calçado;Botas
+acessório;Cachecol
+/
+nome;Praia
+bônus;4
+preço;800
+penteado;Cabelo Molhado
+superior;Sem Camisa
+inferior;Sunga
+calçado;Sandalias
+acessório;Prancha de Surf
+/
+nome;Social
+bônus;5
+preço;1000
+penteado;Social
+superior;Terno
+inferior;Social
+calçado;Sapatos Sociais
+acessório;Gravata
+**

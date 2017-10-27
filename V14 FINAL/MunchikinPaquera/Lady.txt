@@ -1,0 +1,106 @@
+/
+nome;Larissa
+defesa;1
+fazmeutipo;r
+frase;Err.. Entao..
+vitória;Foi o melhor encontro que eu tive
+derrota;Preferia ter ficado em casa
+/
+nome;Maite
+defesa;2
+fazmeutipo;b
+frase;Voce vem sempre aqui?
+vitória;Voce vai voltar sozinho?
+derrota;Deixa que eu volto sozinha
+/
+nome;Heloisa
+defesa;3
+fazmeutipo;e
+frase;Desculpa a demora
+vitória;Vamos marcar de novo
+derrota;Acho que vamos ficar na amizade mesmo
+/
+nome;Marina
+defesa;4
+fazmeutipo;g
+frase;Oi, tudo bem?
+vitória;Voce devia conhecer minha casa
+derrota;Err.. Te vejo depois,eu acho.
+/
+nome;Beatriz
+defesa;5
+fazmeutipo;g
+frase;Esse lugar e bem bonito
+vitória;Me acompanha?
+derrota;Meu cachorro esta doente, preciso ir
+/
+nome;Joyce
+defesa;6
+fazmeutipo;g
+frase;Oi, gatinho.
+vitória;Depois dessa, esquentou aqui.
+derrota;Vamos ficar na amizade
+/
+nome;Patricia
+defesa;7
+fazmeutipo;b
+frase;To doida pra experimentar essa marguerita
+vitória;Tem dinheiro para o motel?
+derrota;Esse encontro foi meio desanimador
+/
+nome;Julia
+defesa;8
+fazmeutipo;e
+frase;Oi.
+vitória;Voce tem altas chances
+derrota;Nem pense em me ligar
+/
+nome;Princesa Leia Organa
+defesa;9
+fazmeutipo;g
+frase;Que a forca esteja conosco
+vitória;Que belo Jedi
+derrota;Te achei meio estranho
+/
+nome;Bruna Marquezine
+defesa;10
+fazmeutipo;g
+frase;Que lugar barato
+vitória;Vamos pra minha casa
+derrota;Prefiro o Neymar
+/
+nome;Grazzy Massafera
+defesa;11
+fazmeutipo;e
+frase;Me fala mais sobre voce
+vitória;Hmm,que charmoso
+derrota;Acho que nao rolou um clima,sabe?
+/
+nome;Anna Hickmann
+defesa;12
+fazmeutipo;g
+frase;Boa tarde.
+vitória;Eu estou supresa, nao espera isso de voce
+derrota;Tudo bem, Eu achei voce simpatico
+/
+nome;Scarlett Johansson
+defesa;13
+fazmeutipo;n
+frase;Nada de gracinhas
+vitória;A gente podia ir para um lugar mais sossegado
+derrota;Pode pedir a conta
+/
+nome;Gal Gadot
+defesa;14
+fazmeutipo;b
+frase;Escolheu o que quer comer?
+vitória;Eu vou te ensinar umas coisinhas
+derrota;Imagino que seja seu primeiro encontro
+/
+nome;Angelina Jolie
+defesa;15
+fazmeutipo;g
+frase;Tenho pouco tempo
+vitória;Aqui, meu telefone
+derrota;Eu tenho um evento agora
+**

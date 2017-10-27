@@ -1,0 +1,11 @@
+/*
+        String opcao = null;
+        Object[] options = {"COMUM", "VIP"};
+        int resposta = JOptionPane.showOptionDialog(null, "Escolha o tipo de ingresso", "Aviso", JOptionPane.DEFAULT_OPTION, JOptionPane.WARNING_MESSAGE,
+        null, options, options[0]);
+        if (resposta == 0){
+        System.out.println("Ingresso comum");
+        } else if (resposta == 1){
+        System.out.println("Ingresso VIP");
+        }
+    */
